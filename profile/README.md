@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, we’re High Day Media</h1>
 <h3 align="center">A company, whose goal is not only to create, stunning works of art, but highly functional, and optimized products.</h3>
 
-- 👨‍💻 All of my projects are available at [highdaymedia.com/en/our-work](highdaymedia.com/en/our-work)
+- 👨‍💻 All of our projects are available at [highdaymedia.com/en/our-work](highdaymedia.com/en/our-work)
 
-- 📝 I regularly write articles on [highdaymedia.com/en/blog](highdaymedia.com/en/blog)
+- 📝 We regularly write articles on [highdaymedia.com/en/blog](highdaymedia.com/en/blog)
 
-- 📫 How to reach me **info@highdaymedia.com**
+- 📫 How to reach us **info@highdaymedia.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
