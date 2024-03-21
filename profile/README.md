@@ -1,6 +1,4 @@
-# High Day Media
-
-<h1 align="center">Hi 👋, we’re High Day Media</h1>
+<h1 align="center">Hi, we’re High Day Media 👋</h1>
 <h3 align="center">A company, whose goal is not only to create, stunning works of art, but highly functional, and optimized products.</h3>
 
 - 👨‍💻 All of our projects are available at [highdaymedia.com/en/our-work](highdaymedia.com/en/our-work)
